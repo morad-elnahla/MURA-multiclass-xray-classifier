@@ -26,7 +26,7 @@
 - [Dataset](#-dataset)
 - [Model Architecture](#-model-architecture)
 - [Training Strategy](#-training-strategy)
-- [Deployment — BONIFY App](#-deployment--bonify-app)
+- [BONIFY App — Deployment](#bonify-app--deployment)
 - [Project Structure](#-project-structure)
 - [References](#-references)
 
@@ -264,7 +264,7 @@ Random horizontal flip · Random vertical flip · Random brightness ±15% · Ran
 
 ---
 
-## 🖥️ Deployment — BONIFY App
+## BONIFY App — Deployment
 
 We wrapped the model in a **Streamlit web application** called BONIFY that provides a clean interface for real-time X-ray inference.
 
