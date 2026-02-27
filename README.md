@@ -266,15 +266,30 @@ Random horizontal flip · Random vertical flip · Random brightness ±15% · Ran
 
 ## BONIFY App — Deployment
 
-We wrapped the model in a **Streamlit web application** called BONIFY that provides a clean interface for real-time X-ray inference.
+---
 
-**Features:**
-- Upload any X-ray image (PNG / JPG)
-- Instantly identifies the body region
-- Shows Normal / Abnormal verdict with confidence score
-- Displays Top-5 probability distribution
-- Dark professional UI designed from scratch
+### 🖥️ BONIFY App — Live Demo Screenshots
 
+The BONIFY Streamlit interface provides a clean clinical-style dashboard for real-time inference.
+
+### 🔹 Upload & Prediction Interface
+
+![BONIFY UI 1](app_image/2.png)
+
+### 🔹 Prediction Output & Confidence Scores
+
+![BONIFY UI 2](app_image/3.png)
+
+
+
+---
+
+## 🎥 Project Demo Video
+
+Watch the full walkthrough and deployment demo on LinkedIn:
+
+🔗 **Project Video:**  
+https://www.linkedin.com/posts/morad-elnahla_deeplearning-medicalimaging-computervision-ugcPost-7432905481653866496-j2TK
 ---
 
 ## 📁 Project Structure
